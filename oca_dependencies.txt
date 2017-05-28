@@ -1,1 +1,2 @@
 server-tools
+storage https://github.com/akretion/storage.git 8.0
