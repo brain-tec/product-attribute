@@ -9,41 +9,12 @@ from openerp.osv import fields as old_fields
 
 class ProductProduct(models.Model):
     _name = "product.product"
-    _inherit = [_name, "base_multi_image.owner"]
+    _inherit = [_name, "storage.image.owner.compatibility"]
 
     # Make this field computed for getting only the available images
     image_ids = fields.One2many(
-        compute="_compute_image_ids", comodel_name="base_multi_image.image",
+        compute="_compute_image_ids", comodel_name="storage.image",
         inverse="_inverse_image_ids")
-    image_main = fields.Binary(inverse="_inverse_main_image_large")
-    image_main_medium = fields.Binary(inverse="_inverse_main_image_medium")
-    image_main_small = fields.Binary(inverse="_inverse_main_image_small")
-
-    @api.multi
-    def _inverse_main_image(self, image):
-        for product in self:
-            if image:
-                product.image_ids[0].write({
-                    'file_db_store': image,
-                    'storage': 'db',
-                })
-            else:
-                product.image_ids = [(3, product.image_ids[0].id)]
-
-    @api.multi
-    def _inverse_main_image_large(self):
-        for product in self:
-            product._inverse_main_image(product.image_main)
-
-    @api.multi
-    def _inverse_main_image_medium(self):
-        for product in self:
-            product._inverse_main_image(product.image_main_medium)
-
-    @api.multi
-    def _inverse_main_image_small(self):
-        for product in self:
-            product._inverse_main_image(product.image_main_small)
 
     @api.multi
     @api.depends('product_tmpl_id', 'product_tmpl_id.image_ids',
@@ -65,8 +36,8 @@ class ProductProduct(models.Model):
             for image in product.image_ids:
                 if isinstance(image.id, models.NewId):
                     # Image added
-                    image.owner_id = product.product_tmpl_id.id
-                    image.owner_model = "product.template"
+                    image.res_id = product.product_tmpl_id.id
+                    image.res_model = "product.template"
                     image.product_variant_ids = [(6, 0, product.ids)]
                     image.create(image._convert_to_write(image._cache))
                 else:
@@ -117,7 +88,7 @@ class ProductProductOld(orm.Model):
     redesigned.
     """
     _name = "product.product"
-    _inherit = [_name, "base_multi_image.owner"]
+    _inherit = [_name, "storage.image.owner.compatibility"]
     _columns = {
         "image": old_fields.related(
             "image_main", type="binary", store=False, multi=False),

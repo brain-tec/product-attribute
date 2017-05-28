@@ -15,7 +15,7 @@ class ProductTemplate(orm.Model):
     https://github.com/odoo/odoo/issues/10799
     """
     _name = "product.template"
-    _inherit = [_name, "base_multi_image.owner"]
+    _inherit = [_name, "storage.image.owner.compatibility"]
     _columns = {
         "image": fields.related(
             "image_main",

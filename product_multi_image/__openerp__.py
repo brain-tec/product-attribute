@@ -13,9 +13,9 @@
     "license": "AGPL-3",
     "website": "http://www.serviciosbaeza.com",
     "category": "Sales Management",
-    "pre_init_hook": "pre_init_hook",
+    #"pre_init_hook": "pre_init_hook",
     "depends": [
-        "base_multi_image",
+        "storage_image",
         "product",
     ],
     "data": [
