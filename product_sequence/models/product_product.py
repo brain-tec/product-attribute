@@ -36,6 +36,12 @@ def update_null_and_slash_codes(cr):  # pragma: no cover
                "WHERE default_code IS NULL OR default_code = '/';")
 
 
+class ProductTemplate(models.Model):
+    _inherit = 'product.template'
+
+    default_code = fields.Char(required=True)
+
+
 class ProductProduct(models.Model):
     _inherit = 'product.product'
 
@@ -68,7 +74,7 @@ class ProductProduct(models.Model):
             super(ProductProduct, product).write(vals)
         return True
 
-    @api.one
+    @api.multi
     def copy(self, default=None):
         if default is None:
             default = {}
