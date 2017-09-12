@@ -22,6 +22,8 @@
         'views/image_view.xml',
         'views/product_template_view.xml',
         'views/product_product_view.xml',
+        'security/ir.model.access.csv',
+        'security/ir.rule.csv',
     ],
     'installable': True,
     "images": [
