@@ -38,7 +38,7 @@
            'custom_attributes_view.xml',
     ],
     'demo_xml': [],
-    'installable': True,
+    'installable': False,
     'active': False,
     'external_dependencies' : {
         'python' : ['unidecode'],
