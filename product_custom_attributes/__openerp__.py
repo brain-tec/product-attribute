@@ -41,7 +41,7 @@ In particular it's used by the Magento Magentoerpconnect module to match the EAV
            'wizard/open_product_by_attribute_set.xml',
     ],
     'demo_xml': [],
-    'installable': False,
+    'installable': True,
     'active': False,
 }
 
