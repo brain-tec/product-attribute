@@ -1,7 +1,7 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
 # * product_standard_price_tax_included
-# 
+#
 # Translators:
 # OCA Transbot <transbot@odoo-community.org>, 2016
 # Matjaž Mozetič <m.mozetic@matmoz.si>, 2016
@@ -13,11 +13,12 @@ msgstr ""
 "PO-Revision-Date: 2016-11-03 10:07+0000\n"
 "Last-Translator: Matjaž Mozetič <m.mozetic@matmoz.si>, 2016\n"
 "Language-Team: Slovenian (https://www.transifex.com/oca/teams/23907/sl/)\n"
+"Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Language: sl\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
 
 #. module: product_standard_price_tax_included
 #: model:product.price.type,name:product_standard_price_tax_included.standard_price_tax_included
@@ -29,10 +30,12 @@ msgstr "Davek vključen v nabavni ceni"
 #: help:product.template,standard_price_tax_included:0
 msgid ""
 "Cost Price of the product, All Tax Included:\n"
-"This field will be computed with the 'Cost Price', taking into account Sale Taxes setting."
+"This field will be computed with the 'Cost Price', taking into account Sale "
+"Taxes setting."
 msgstr ""
 "Nabavna cena proizvoda vključno vsi davki:\n"
-"To polje bo obdelano z 'Lastno ceno' ob upoštevanju nastavitev konta prodajnih davkov."
+"To polje bo obdelano z 'Lastno ceno' ob upoštevanju nastavitev konta "
+"prodajnih davkov."
 
 #. module: product_standard_price_tax_included
 #: model:ir.model,name:product_standard_price_tax_included.model_product_template
