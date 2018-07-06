@@ -5,8 +5,7 @@ from odoo import fields, models
 
 
 class ProductTemplate(models.Model):
-    _inherit = 'product.template'
+    _inherit = 'product.product'
 
-    warranty_time = fields.Integer(string='Warranty Time',
-                                   help='Number of months before the warranty '
-                                        'of the product expires.')
+    warranty_time = fields.Integer(string='Warranty Time (Months)',
+                                   help='Total number of months the warranty covers.')

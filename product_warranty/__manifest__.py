@@ -6,10 +6,10 @@
     "summary": "Allow user to specify a warranty on a product",
     "version": "11.0.1.0.0",
     "license": "AGPL-3",
-    "author": "Open Source Integrators, Odoo Community Association (OCA)",
+    "author": "Brain-tec",
     "category": "Product",
-    "website": "http://www.opensourceintegrators.com",
-    "depends": ["product", "stock"],
+    "website": "http://www.braintec-group.com",
+    "depends": ["product"],
     "data": [
         "views/product_view.xml",
     ],

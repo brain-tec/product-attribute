@@ -42,7 +42,7 @@ Funders
 
 The development of this module has been financially supported by:
 
-* Open Source Integrators <http://www.opensourceintegrators.com>
+* Open Source Integrators <http://www.braintec-group.com/>
 
 Maintainer
 ----------
