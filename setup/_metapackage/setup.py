@@ -9,10 +9,16 @@ setuptools.setup(
     version=version,
     install_requires=[
         'odoo11-addon-product_brand',
+        'odoo11-addon-product_code_mandatory',
+        'odoo11-addon-product_code_unique',
+        'odoo11-addon-product_end_of_life',
         'odoo11-addon-product_firmware_version',
         'odoo11-addon-product_manufacturer',
+        'odoo11-addon-product_multi_category',
         'odoo11-addon-product_priority',
+        'odoo11-addon-product_sequence',
         'odoo11-addon-product_state',
+        'odoo11-addon-product_supplierinfo_revision',
         'odoo11-addon-stock_production_lot_firmware_version',
     ],
     classifiers=[
