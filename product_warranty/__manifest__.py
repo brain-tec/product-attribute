@@ -11,7 +11,7 @@
     "website": "http://www.braintec-group.com",
     "depends": ["product"],
     "data": [
-        "views/product_view.xml",
+        "views/product_views_ext.xml",
     ],
     "installable": True,
 }
