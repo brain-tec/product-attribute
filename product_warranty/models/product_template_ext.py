@@ -5,8 +5,8 @@ class ProductTemplate(models.Model):
     _inherit = 'product.template'
 
     warranty_time = fields.Integer(string='Warranty Time (Months)',
-                                   compute='_compute_default_warranty_time',
-                                   inverse='_set_default_warranty_time',
+                                   compute='_compute_warranty_time',
+                                   inverse='_set_warranty_time',
                                    help='Total number of months the warranty covers.')
 
     @api.one
