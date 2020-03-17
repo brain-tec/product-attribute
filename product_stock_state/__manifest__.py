@@ -32,5 +32,5 @@
         "demo/product_category.xml",
     ],
     "qweb": [],
-    "maintainers": ["akretion"],
+    "maintainers": ["sebastienbeau", "legalsylvain", "kevinkhao"],
 }
