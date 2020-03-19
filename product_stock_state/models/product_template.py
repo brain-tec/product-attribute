@@ -16,7 +16,7 @@ class ProductTemplate(models.Model):
     stock_state_threshold = fields.Float(
         compute="_compute_stock_state_threshold",
         store=True,
-        help="Define custom value under wich the stock state will pass from"
+        help="Define custom value under which the stock state will pass from"
         " 'In Stock' to 'In Limited Stock' State. If not set, Odoo will"
         " use the value defined in the product category. If"
         " no value is defined in product category, it will use the value"
