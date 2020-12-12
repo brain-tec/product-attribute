@@ -1,5 +1,5 @@
 ====================
-Product BOM revision
+Product Lot Sequence
 ====================
 
 .. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -14,10 +14,10 @@ Product BOM revision
     :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
     :alt: License: AGPL-3
 .. |badge3| image:: https://img.shields.io/badge/github-OCA%2Fproduct--attribute-lightgray.png?logo=github
-    :target: https://github.com/OCA/product-attribute/tree/13.0/product_bom_revision
+    :target: https://github.com/OCA/product-attribute/tree/13.0/product_lot_sequence
     :alt: OCA/product-attribute
 .. |badge4| image:: https://img.shields.io/badge/weblate-Translate%20me-F47D42.png
-    :target: https://translation.odoo-community.org/projects/product-attribute-13-0/product-attribute-13-0-product_bom_revision
+    :target: https://translation.odoo-community.org/projects/product-attribute-13-0/product-attribute-13-0-product_lot_sequence
     :alt: Translate me on Weblate
 .. |badge5| image:: https://img.shields.io/badge/runbot-Try%20me-875A7B.png
     :target: https://runbot.odoo-community.org/runbot/135/13.0
@@ -25,7 +25,7 @@ Product BOM revision
 
 |badge1| |badge2| |badge3| |badge4| |badge5| 
 
-This module allows you to store the revision of a product and a BOM.
+Adds ability to define a lot sequence from the product which will be proposed upon creating new lots.
 
 **Table of contents**
 
@@ -35,11 +35,14 @@ This module allows you to store the revision of a product and a BOM.
 Usage
 =====
 
-* Go to Inventory > Master Data > Products
-* Create or edit a product.
-* Enter the product revision and save.
-* Create or edit a BOM.
-* Enter the BOM revision and save.
+To use this module:
+
+* Go to Inventory > Products
+* Under the inventory tab when tracking set to lots 4 new fields will be displayed
+* If a sequence is not selected, a new one using the prefix, padding and next number fields, will be created
+* Go to Inventory > Lot/Serial Numbers
+* Create new Lot/Serial number
+* Select the product and the next number of the product sequence will be automatically proposed
 
 Bug Tracker
 ===========
@@ -47,7 +50,7 @@ Bug Tracker
 Bugs are tracked on `GitHub Issues <https://github.com/OCA/product-attribute/issues>`_.
 In case of trouble, please check there if your issue has already been reported.
 If you spotted it first, help us smashing it by providing a detailed and welcomed
-`feedback <https://github.com/OCA/product-attribute/issues/new?body=module:%20product_bom_revision%0Aversion:%2013.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
+`feedback <https://github.com/OCA/product-attribute/issues/new?body=module:%20product_lot_sequence%0Aversion:%2013.0%0A%0A**Steps%20to%20reproduce**%0A-%20...%0A%0A**Current%20behavior**%0A%0A**Expected%20behavior**>`_.
 
 Do not contact contributors directly about support or help with technical issues.
 
@@ -57,14 +60,13 @@ Credits
 Authors
 ~~~~~~~
 
-* C2i Change 2 improve
+* ForgeFlow S.L.
 
 Contributors
 ~~~~~~~~~~~~
 
-* `C2i Change 2 improve <http://www.c2i.es>`_:
-
-  * Eduardo Magdalena <emagdalena@c2i.es>
+* Adria Gil Sorribes <adria.gil@forgeflow.com>
+* Domantas Girdžiūnas <domantas@vialaurea.lt>
 
 Maintainers
 ~~~~~~~~~~~
@@ -79,6 +81,6 @@ OCA, or the Odoo Community Association, is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
 promote its widespread use.
 
-This module is part of the `OCA/product-attribute <https://github.com/OCA/product-attribute/tree/13.0/product_bom_revision>`_ project on GitHub.
+This module is part of the `OCA/product-attribute <https://github.com/OCA/product-attribute/tree/13.0/product_lot_sequence>`_ project on GitHub.
 
 You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
