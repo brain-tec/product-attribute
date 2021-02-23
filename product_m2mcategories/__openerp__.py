@@ -17,7 +17,7 @@
 
 {
     "name": "Product - Many Categories",
-    "version": "8.0.1.0.2",
+    "version": "8.0.1.0.3",
     "author": "Sharoon Thomas,Odoo Community Association (OCA)",
     "contributors": ["Mikel Arregi <mikelarregi@avanzosc.es>"],
     "website": "https://odoo-community.org/",
@@ -30,7 +30,7 @@ This module Extends the existing functionality of Open ERP Products
 
 **Note**: This module was built generically but in focus of the Magento
 Open ERP connector.
-  
+
 **Note 2**: The additional categories are only for classification and does
 not affect other operations.
     """,
