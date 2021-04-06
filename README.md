@@ -23,6 +23,7 @@ addon | version | summary
 [product_custom_info](product_custom_info/) | 10.0.1.0.0 | Add custom field in products
 [product_default_image](product_default_image/) | 10.0.1.0.0 | Apply default images to new and existing products.
 [product_dimension](product_dimension/) | 10.0.1.0.0 | Product Dimension
+[product_life_period](product_life_period/) | 10.0.1.0.1 | Product life period
 [product_manufacturer](product_manufacturer/) | 10.0.1.0.0 | Product Manufacturers
 [product_multi_category](product_multi_category/) | 10.0.1.0.0 | Product - Many Categories
 [product_multi_image](product_multi_image/) | 10.0.1.0.0 | Multiple Images in Products
@@ -34,6 +35,7 @@ addon | version | summary
 [product_service_duration](product_service_duration/) | 10.0.1.0.0 | Extends events and meetings with services.
 [product_special_type](product_special_type/) | 10.0.1.0.0 | Add a special type selection on products.
 [product_state](product_state/) | 10.0.1.0.0 | Module introducing a state field on product template
+[product_state_history](product_state_history/) | 10.0.1.0.1 | Allows to store product state history for reporting purpose
 [product_supplierinfo_for_customer](product_supplierinfo_for_customer/) | 10.0.3.0.1 | Allows to define prices for customers in the products
 [product_template_tags](product_template_tags/) | 10.0.1.0.0 | This addon allow to add tags on products
 [product_uom](product_uom/) | 10.0.1.0.0 | Provide missing uom
