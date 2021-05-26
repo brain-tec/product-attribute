@@ -31,6 +31,7 @@ addon | version | summary
 [product_manufacturer](product_manufacturer/) | 14.0.1.0.0 | Adds manufacturers and attributes on the product view.
 [product_multi_category](product_multi_category/) | 14.0.1.0.0 | Product - Many Categories
 [product_order_noname](product_order_noname/) | 14.0.2.0.0 | Speedup product retrieve
+[product_packaging_dimension](product_packaging_dimension/) | 14.0.1.0.0 | Manage packaging dimensions and weight
 [product_packaging_type](product_packaging_type/) | 14.0.0.1.0 | Product Packaging Type
 [product_pricelist_direct_print](product_pricelist_direct_print/) | 14.0.1.0.0 | Print price list from menu option, product templates, products variants or price lists
 [product_secondary_unit](product_secondary_unit/) | 14.0.1.0.0 | Set a secondary unit per product
@@ -38,6 +39,7 @@ addon | version | summary
 [product_state](product_state/) | 14.0.1.0.0 | Module introducing a state field on product template
 [product_stock_state](product_stock_state/) | 14.0.1.0.0 | Compute the state of a product's stockthe stock level and sale_ok field
 [product_template_tags](product_template_tags/) | 14.0.1.0.0 | This addon allow to add tags on products
+[product_weight](product_weight/) | 14.0.1.0.0 | Allows to calculate products weight from its components.
 
 [//]: # (end addons)
 
