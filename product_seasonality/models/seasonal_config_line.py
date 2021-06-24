@@ -16,10 +16,14 @@ class SeasonalConfigLine(models.Model):
         comodel_name="seasonal.config",
         required=True,
     )
-    product_id = fields.Many2one(
-        comodel_name="product.product",
+    product_template_id = fields.Many2one(
+        comodel_name="product.template",
         domain=[("sale_ok", "=", True)],
         required=True,
+    )
+    product_id = fields.Many2one(
+        comodel_name="product.product",
+        domain="[('product_tmpl_id', '=', product_template_id)]",
     )
     date_start = fields.Datetime(required=True)
     date_end = fields.Datetime()
@@ -30,6 +34,7 @@ class SeasonalConfigLine(models.Model):
     friday = fields.Boolean(default=True)
     saturday = fields.Boolean(default=True)
     sunday = fields.Boolean(default=True)
+    display_name = fields.Char(compute="_compute_display_name")
 
     @api.constrains("date_start", "date_end")
     def _check_date_end(self):
@@ -54,8 +59,24 @@ class SeasonalConfigLine(models.Model):
 
     def find_for_product(self, prod, config=None):
         domain = [
+            "|",
             ("product_id", "=", prod.id),
+            "&",
+            ("product_id", "=", False),
+            ("product_template_id", "=", prod.product_tmpl_id.id),
         ]
         if config:
             domain.append(("seasonal_config_id", "=", config.id))
         return self.search(domain)
+
+    def _compute_display_name(self):
+        for rec in self:
+            rec.display_name = rec._name_get()
+
+    def _name_get(self):
+        parts = [
+            f"[{self.seasonal_config_id.display_name}]",
+            self.product_id.display_name,
+            f"({self.id})",
+        ]
+        return " ".join(parts)
