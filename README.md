@@ -20,6 +20,7 @@ Available addons
 addon | version | summary
 --- | --- | ---
 [base_product_mass_addition](base_product_mass_addition/) | 14.0.1.1.0 | Base Product Mass Addition
+[packaging_uom](packaging_uom/) | 14.0.1.0.1 | Use uom in package
 [pos_product_cost_security](pos_product_cost_security/) | 14.0.1.0.0 | Compatibility between Point of Sale and Product Cost Security
 [product_assortment](product_assortment/) | 14.0.1.0.1 | Adds the ability to manage products assortment
 [product_attribute_archive](product_attribute_archive/) | 14.0.1.0.0 | Add an active field on product attributes
@@ -38,7 +39,7 @@ addon | version | summary
 [product_packaging_type](product_packaging_type/) | 14.0.0.1.0 | Product Packaging Type
 [product_packaging_type_pallet](product_packaging_type_pallet/) | 14.0.1.0.1 | Manage packaging of pallet type
 [product_pricelist_direct_print](product_pricelist_direct_print/) | 14.0.1.0.0 | Print price list from menu option, product templates, products variants or price lists
-[product_seasonality](product_seasonality/) | 14.0.1.2.0 | Define rules for products' seasonal availability
+[product_seasonality](product_seasonality/) | 14.0.1.2.1 | Define rules for products' seasonal availability
 [product_secondary_unit](product_secondary_unit/) | 14.0.1.0.0 | Set a secondary unit per product
 [product_sequence](product_sequence/) | 14.0.2.0.1 | Product Sequence
 [product_state](product_state/) | 14.0.1.0.0 | Module introducing a state field on product template
