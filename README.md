@@ -22,7 +22,7 @@ addon | version | summary
 [base_product_mass_addition](base_product_mass_addition/) | 14.0.1.1.0 | Base Product Mass Addition
 [packaging_uom](packaging_uom/) | 14.0.1.0.1 | Use uom in package
 [pos_product_cost_security](pos_product_cost_security/) | 14.0.1.0.0 | Compatibility between Point of Sale and Product Cost Security
-[product_assortment](product_assortment/) | 14.0.1.0.1 | Adds the ability to manage products assortment
+[product_assortment](product_assortment/) | 14.0.1.0.2 | Adds the ability to manage products assortment
 [product_attribute_archive](product_attribute_archive/) | 14.0.1.0.0 | Add an active field on product attributes
 [product_bom_revision](product_bom_revision/) | 14.0.1.0.1 | Store the revision of a product and a BOM
 [product_category_code](product_category_code/) | 14.0.1.0.0 | Allows to define a code on product categories
@@ -46,6 +46,7 @@ addon | version | summary
 [product_stock_state](product_stock_state/) | 14.0.1.0.0 | Compute the state of a product's stockthe stock level and sale_ok field
 [product_template_tags](product_template_tags/) | 14.0.1.1.0 | This addon allow to add tags on products
 [product_total_weight_from_packaging](product_total_weight_from_packaging/) | 14.0.1.0.0 | Compute estimated weight based on product's packaging weights
+[product_uom_updatable](product_uom_updatable/) | 14.0.1.0.0 | allows products uom to be modified after be used in a stock picking if the product uom is of the same category
 [product_weight](product_weight/) | 14.0.1.0.0 | Allows to calculate products weight from its components.
 [product_weight_logistics_uom](product_weight_logistics_uom/) | 14.0.1.0.0 | Glue module for product_weight and product_logistics_uom
 [purchase_product_template_tags](purchase_product_template_tags/) | 14.0.1.1.0 | Show product tags menu in Purchase app
