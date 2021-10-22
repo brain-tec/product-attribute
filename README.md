@@ -34,12 +34,13 @@ addon | version | maintainers | summary
 [product_dimension](product_dimension/) | 14.0.1.0.0 |  | Product Dimension
 [product_logistics_uom](product_logistics_uom/) | 14.0.1.0.1 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
 [product_lot_sequence](product_lot_sequence/) | 14.0.1.0.1 |  | Adds ability to define a lot sequence from the product
+[product_main_supplierinfo](product_main_supplierinfo/) | 14.0.1.0.0 | [![sebalix](https://github.com/sebalix.png?size=30px)](https://github.com/sebalix) | Display the main vendor of a product.
 [product_manufacturer](product_manufacturer/) | 14.0.1.0.1 |  | Adds manufacturers and attributes on the product view.
 [product_medical](product_medical/) | 14.0.1.0.1 |  | Base structure to handle medical products
 [product_multi_category](product_multi_category/) | 14.0.1.0.0 |  | Product - Many Categories
 [product_order_noname](product_order_noname/) | 14.0.2.0.0 | [![WR-96](https://github.com/WR-96.png?size=30px)](https://github.com/WR-96) [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Speedup product retrieve
 [product_packaging_dimension](product_packaging_dimension/) | 14.0.1.0.1 |  | Manage packaging dimensions and weight
-[product_packaging_type](product_packaging_type/) | 14.0.0.1.0 |  | Product Packaging Type
+[product_packaging_type](product_packaging_type/) | 14.0.0.2.0 |  | Product Packaging Type
 [product_packaging_type_pallet](product_packaging_type_pallet/) | 14.0.1.0.1 |  | Manage packaging of pallet type
 [product_packaging_type_required](product_packaging_type_required/) | 14.0.1.1.0 | [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) [![dcrier](https://github.com/dcrier.png?size=30px)](https://github.com/dcrier) | Product Packaging Type Required
 [product_packaging_unit_price_calculator](product_packaging_unit_price_calculator/) | 14.0.1.0.0 |  | Wizard to calculate a unit price from a packaging price
