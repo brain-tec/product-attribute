@@ -4,10 +4,10 @@
 
 {
     "name": "Product - Domain on Purchase UoM",
-    "version": "12.0.1.0.1",
+    "version": "12.0.1.0.2",
     "category": "Product",
     "author": "GRAP, Odoo Community Association (OCA)",
-    "website": "http://www.grap.coop",
+    "website": "https://github.com/OCA/product-attribute",
     "license": "AGPL-3",
     "depends": [
         "product",
