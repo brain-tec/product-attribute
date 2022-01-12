@@ -22,7 +22,7 @@ addon | version | maintainers | summary
 [base_product_mass_addition](base_product_mass_addition/) | 14.0.1.1.0 |  | Base Product Mass Addition
 [packaging_uom](packaging_uom/) | 14.0.1.0.1 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Use uom in package
 [pos_product_cost_security](pos_product_cost_security/) | 14.0.1.0.0 |  | Compatibility between Point of Sale and Product Cost Security
-[product_assortment](product_assortment/) | 14.0.1.0.3 |  | Adds the ability to manage products assortment
+[product_assortment](product_assortment/) | 14.0.1.1.0 |  | Adds the ability to manage products assortment
 [product_attribute_archive](product_attribute_archive/) | 14.0.1.0.0 |  | Add an active field on product attributes
 [product_barcode_required](product_barcode_required/) | 14.0.1.0.0 | [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) | Make product barcode required when enabled
 [product_bom_revision](product_bom_revision/) | 14.0.1.0.1 |  | Store the revision of a product and a BOM
@@ -40,6 +40,7 @@ addon | version | maintainers | summary
 [product_medical](product_medical/) | 14.0.1.0.1 |  | Base structure to handle medical products
 [product_model_viewer](product_model_viewer/) | 14.0.1.0.1 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | 3D model viewer for products
 [product_multi_category](product_multi_category/) | 14.0.1.0.0 |  | Product - Many Categories
+[product_net_weight](product_net_weight/) | 14.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
 [product_order_noname](product_order_noname/) | 14.0.2.0.0 | [![WR-96](https://github.com/WR-96.png?size=30px)](https://github.com/WR-96) [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Speedup product retrieve
 [product_packaging_dimension](product_packaging_dimension/) | 14.0.1.0.1 |  | Manage packaging dimensions and weight
 [product_packaging_type](product_packaging_type/) | 14.0.0.2.0 |  | Product Packaging Type
