@@ -43,7 +43,7 @@ addon | version | maintainers | summary
 [product_multi_category](product_multi_category/) | 14.0.1.0.0 |  | Product - Many Categories
 [product_net_weight](product_net_weight/) | 14.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
 [product_order_noname](product_order_noname/) | 14.0.2.0.0 | [![WR-96](https://github.com/WR-96.png?size=30px)](https://github.com/WR-96) [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Speedup product retrieve
-[product_packaging_dimension](product_packaging_dimension/) | 14.0.1.0.1 |  | Manage packaging dimensions and weight
+[product_packaging_dimension](product_packaging_dimension/) | 14.0.1.0.2 |  | Manage packaging dimensions and weight
 [product_packaging_type](product_packaging_type/) | 14.0.0.2.0 |  | Product Packaging Type
 [product_packaging_type_pallet](product_packaging_type_pallet/) | 14.0.1.0.1 |  | Manage packaging of pallet type
 [product_packaging_type_required](product_packaging_type_required/) | 14.0.1.1.0 | [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) [![dcrier](https://github.com/dcrier.png?size=30px)](https://github.com/dcrier) | Product Packaging Type Required
@@ -66,7 +66,7 @@ addon | version | maintainers | summary
 [product_template_tags](product_template_tags/) | 14.0.1.2.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | This addon allow to add tags on products
 [product_template_tags_code](product_template_tags_code/) | 14.0.1.0.1 |  | This addon allow to add code on products tags
 [product_tier_validation](product_tier_validation/) | 14.0.2.0.0 | [![dreispt](https://github.com/dreispt.png?size=30px)](https://github.com/dreispt) | Support a tier validation process for Products
-[product_total_weight_from_packaging](product_total_weight_from_packaging/) | 14.0.1.0.0 |  | Compute estimated weight based on product's packaging weights
+[product_total_weight_from_packaging](product_total_weight_from_packaging/) | 14.0.1.1.1 |  | Compute estimated weight based on product's packaging weights
 [product_uom_updatable](product_uom_updatable/) | 14.0.1.0.1 |  | allows products uom to be modified after be used in a stock picking if the product uom is of the same category
 [product_variant_attribute_name_manager](product_variant_attribute_name_manager/) | 14.0.1.0.0 | [![oriolvforgeflow](https://github.com/oriolvforgeflow.png?size=30px)](https://github.com/oriolvforgeflow) | Manage how to display the attributes on the product variant name.
 [product_video_link](product_video_link/) | 14.0.1.0.1 |  | Link Video on product and category
