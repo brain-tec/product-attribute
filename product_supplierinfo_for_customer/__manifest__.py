@@ -6,12 +6,12 @@
 {
     "name": "Product Supplierinfo for Customers",
     "summary": "Allows to define prices for customers in the products",
-    "version": "14.0.1.2.0",
+    "version": "14.0.1.2.1",
     "author": "AvanzOSC, " "Tecnativa, " "Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/product-attribute",
     "category": "Sales Management",
     "license": "AGPL-3",
-    "depends": ["product"],
+    "depends": ["product", "sales_team"],
     "data": [
         "security/ir.model.access.csv",
         "views/product_pricelist_views.xml",
