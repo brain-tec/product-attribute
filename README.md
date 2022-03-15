@@ -24,7 +24,7 @@ addon | version | maintainers | summary
 [product_abc_classification_sale](product_abc_classification_sale/) | 13.0.1.0.1 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Includes ABC classification for inventory management
 [product_assortment](product_assortment/) | 13.0.2.1.0 |  | Adds the ability to manage products assortment
 [product_attribute_archive](product_attribute_archive/) | 13.0.1.0.1 |  | Add an active field on product attributes
-[product_attribute_value_menu](product_attribute_value_menu/) | 13.0.1.0.0 |  | Add a menu item containing the Attribute Values
+[product_attribute_value_menu](product_attribute_value_menu/) | 13.0.1.1.0 |  | Add a menu item containing the Attribute Values
 [product_barcode_required](product_barcode_required/) | 13.0.1.0.2 |  | Make product barcode required when enabled
 [product_bom_revision](product_bom_revision/) | 13.0.1.0.1 |  | Store the revision of a product and a BOM
 [product_category_active](product_category_active/) | 13.0.1.0.0 |  | Add option to archive product categories
@@ -51,6 +51,7 @@ addon | version | maintainers | summary
 [product_pricelist_button_box](product_pricelist_button_box/) | 13.0.1.0.1 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to define a button_box section on pricelist form
 [product_pricelist_by_contact](product_pricelist_by_contact/) | 13.0.1.0.0 |  | Product Pricelist Per Contact
 [product_pricelist_direct_print](product_pricelist_direct_print/) | 13.0.3.4.1 |  | Print price list from menu option, product templates, products variants or price lists
+[product_pricelist_direct_print_company_group](product_pricelist_direct_print_company_group/) | 13.0.1.0.0 |  | Print Pricelist items using the company group model
 [product_pricelist_direct_print_website_sale](product_pricelist_direct_print_website_sale/) | 13.0.2.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Extend Product Pricelist Direct Print for filter by public categories
 [product_pricelist_revision](product_pricelist_revision/) | 13.0.1.2.0 |  | Product Pricelist Revision
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 13.0.1.0.2 |  | Allows to create priceslists based on supplier info
