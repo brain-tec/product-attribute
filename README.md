@@ -1,6 +1,7 @@
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/product-attribute&target_branch=13.0)
-[![Build Status](https://travis-ci.com/OCA/product-attribute.svg?branch=13.0)](https://travis-ci.com/OCA/product-attribute)
+[![Pre-commit Status](https://github.com/OCA/product-attribute/actions/workflows/pre-commit.yml/badge.svg?branch=13.0)](https://github.com/OCA/product-attribute/actions/workflows/pre-commit.yml?query=branch%3A13.0)
+[![Build Status](https://github.com/OCA/product-attribute/actions/workflows/test.yml/badge.svg?branch=13.0)](https://github.com/OCA/product-attribute/actions/workflows/test.yml?query=branch%3A13.0)
 [![codecov](https://codecov.io/gh/OCA/product-attribute/branch/13.0/graph/badge.svg)](https://codecov.io/gh/OCA/product-attribute)
 [![Translation Status](https://translation.odoo-community.org/widgets/product-attribute-13-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/product-attribute-13-0/?utm_source=widget)
 
@@ -58,7 +59,7 @@ addon | version | maintainers | summary
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 13.0.1.0.2 |  | Allows to create priceslists based on supplier info
 [product_product_template_navigation](product_product_template_navigation/) | 13.0.1.0.1 |  | Adds a button in product to view the template
 [product_restricted_type](product_restricted_type/) | 13.0.1.0.0 |  | Product Restricted Type
-[product_secondary_unit](product_secondary_unit/) | 13.0.2.2.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
+[product_secondary_unit](product_secondary_unit/) | 13.0.2.2.1 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 13.0.2.0.1 |  | Product Sequence
 [product_state](product_state/) | 13.0.1.0.1 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_stock_state](product_stock_state/) | 13.0.1.0.0 | [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Compute the state of a product's stockthe stock level and sale_ok field
