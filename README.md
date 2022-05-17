@@ -35,6 +35,7 @@ addon | version | maintainers | summary
 [product_code_mandatory](product_code_mandatory/) | 14.0.1.0.1 |  | Set Product Internal Reference as a required field
 [product_code_unique](product_code_unique/) | 14.0.1.0.0 |  | Set Product Internal Reference as Unique
 [product_cost_security](product_cost_security/) | 14.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Product cost security restriction view
+[product_custom_info](product_custom_info/) | 14.0.1.0.1 |  | Add custom field in products
 [product_dimension](product_dimension/) | 14.0.1.0.0 |  | Product Dimension
 [product_form_pricelist](product_form_pricelist/) | 14.0.1.0.1 |  | Show/edit pricelist in product form
 [product_logistics_uom](product_logistics_uom/) | 14.0.1.0.1 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
@@ -52,6 +53,7 @@ addon | version | maintainers | summary
 [product_packaging_type_pallet](product_packaging_type_pallet/) | 14.0.1.0.1 |  | Manage packaging of pallet type
 [product_packaging_type_required](product_packaging_type_required/) | 14.0.1.1.0 | [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) [![dcrier](https://github.com/dcrier.png?size=30px)](https://github.com/dcrier) | Product Packaging Type Required
 [product_packaging_unit_price_calculator](product_packaging_unit_price_calculator/) | 14.0.1.1.1 |  | Wizard to calculate a unit price from a packaging price
+[product_pricelist_assortment](product_pricelist_assortment/) | 14.0.1.0.1 |  | Product assortment and pricelist
 [product_pricelist_button_box](product_pricelist_button_box/) | 14.0.1.0.1 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to define a button_box section on pricelist form
 [product_pricelist_direct_print](product_pricelist_direct_print/) | 14.0.1.1.0 |  | Print price list from menu option, product templates, products variants or price lists
 [product_pricelist_revision](product_pricelist_revision/) | 14.0.1.0.1 |  | Product Pricelist Revision
