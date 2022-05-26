@@ -21,14 +21,22 @@ class ProductTemplate(models.Model):
         if product_id:
             product = product.browse(product_id)
         if rule.no_supplierinfo_min_quantity:
-            quantity = 1.0
+            # No matter which minimum qty, we'll get every seller. We set a
+            # number absurdidly high
+            quantity = 1e9
         # The product_variant_id returns empty recordset if template is not
         # active, so we must ensure variant exists or _select_seller fails.
         if product:
             if type(date) == datetime:
                 date = date.date()
-            seller = product._select_seller(
-                partner_id=rule.filter_supplier_id, quantity=quantity, date=date
+            seller = product.with_context(
+                override_min_qty=rule.no_supplierinfo_min_quantity
+            )._select_seller(
+                # For a public user this record could be not accessible, but we
+                # need to get the price anyway
+                partner_id=rule.sudo().filter_supplier_id,
+                quantity=quantity,
+                date=date,
             )
             if seller:
                 price = seller._get_supplierinfo_pricelist_price()
