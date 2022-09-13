@@ -1,6 +1,7 @@
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/product-attribute&target_branch=14.0)
-[![Build Status](https://travis-ci.com/OCA/product-attribute.svg?branch=14.0)](https://travis-ci.com/OCA/product-attribute)
+[![Pre-commit Status](https://github.com/OCA/product-attribute/actions/workflows/pre-commit.yml/badge.svg?branch=14.0)](https://github.com/OCA/product-attribute/actions/workflows/pre-commit.yml?query=branch%3A14.0)
+[![Build Status](https://github.com/OCA/product-attribute/actions/workflows/test.yml/badge.svg?branch=14.0)](https://github.com/OCA/product-attribute/actions/workflows/test.yml?query=branch%3A14.0)
 [![codecov](https://codecov.io/gh/OCA/product-attribute/branch/14.0/graph/badge.svg)](https://codecov.io/gh/OCA/product-attribute)
 [![Translation Status](https://translation.odoo-community.org/widgets/product-attribute-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/product-attribute-14-0/?utm_source=widget)
 
@@ -62,6 +63,7 @@ addon | version | maintainers | summary
 [product_pricelist_revision](product_pricelist_revision/) | 14.0.1.0.2 |  | Product Pricelist Revision
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 14.0.1.0.3 |  | Allows to create priceslists based on supplier info
 [product_profile](product_profile/) | 14.0.1.0.1 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Allow to configure a product in 1 click
+[product_restricted_type](product_restricted_type/) | 14.0.1.0.1 |  | Product Restricted Type
 [product_sale_manufactured_for](product_sale_manufactured_for/) | 14.0.1.0.0 |  | Allows to indicate in products that they were made specifically for some customers.
 [product_seasonality](product_seasonality/) | 14.0.1.2.1 |  | Define rules for products' seasonal availability
 [product_secondary_unit](product_secondary_unit/) | 14.0.1.0.3 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
@@ -80,7 +82,7 @@ addon | version | maintainers | summary
 [product_total_weight_from_packaging](product_total_weight_from_packaging/) | 14.0.1.1.1 |  | Compute estimated weight based on product's packaging weights
 [product_uom_updatable](product_uom_updatable/) | 14.0.1.0.1 |  | allows products uom to be modified after be used in a stock picking if the product uom is of the same category
 [product_variant_attribute_name_manager](product_variant_attribute_name_manager/) | 14.0.1.0.0 | [![oriolvforgeflow](https://github.com/oriolvforgeflow.png?size=30px)](https://github.com/oriolvforgeflow) | Manage how to display the attributes on the product variant name.
-[product_video_link](product_video_link/) | 14.0.1.0.1 |  | Link Video on product and category
+[product_video_link](product_video_link/) | 14.0.1.0.2 |  | Link Video on product and category
 [product_weight](product_weight/) | 14.0.1.0.1 |  | Allows to calculate products weight from its components.
 [product_weight_logistics_uom](product_weight_logistics_uom/) | 14.0.1.0.0 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Glue module for product_weight and product_logistics_uom
 [purchase_product_template_tags](purchase_product_template_tags/) | 14.0.1.1.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Show product tags menu in Purchase app
