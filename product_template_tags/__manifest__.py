@@ -4,7 +4,7 @@
 {
     "name": "Product Template Tags",
     "summary": "This addon allow to add tags on products",
-    "version": "13.0.2.1.0",
+    "version": "13.0.2.2.0",
     "license": "AGPL-3",
     "author": "ACSONE SA/NV, Odoo Community Association (OCA), Numigi",
     "website": "https://github.com/OCA/product-attribute",
@@ -12,6 +12,7 @@
     "data": [
         "security/product_template_rule.xml",
         "security/product_template_tag.xml",
+        "views/product_product.xml",
         "views/product_template.xml",
         "views/product_template_tag.xml",
     ],
