@@ -38,12 +38,14 @@ addon | version | maintainers | summary
 [product_packaging_type](product_packaging_type/) | 15.0.1.0.0 |  | Product Packaging Type
 [product_pricelist_by_contact](product_pricelist_by_contact/) | 15.0.1.0.0 |  | Product Pricelist Per Contact
 [product_pricelist_direct_print](product_pricelist_direct_print/) | 15.0.1.0.0 |  | Print price list from menu option, product templates, products variants or price lists
+[product_pricelist_revision](product_pricelist_revision/) | 15.0.1.0.0 |  | Product Pricelist Revision
 [product_restricted_type](product_restricted_type/) | 15.0.1.0.0 |  | Product Restricted Type
 [product_secondary_unit](product_secondary_unit/) | 15.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 15.0.1.0.0 |  | Product Sequence
 [product_state](product_state/) | 15.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 15.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
 [product_supplierinfo_for_customer](product_supplierinfo_for_customer/) | 15.0.1.0.1 |  | Allows to define prices for customers in the products
+[product_supplierinfo_revision](product_supplierinfo_revision/) | 15.0.1.0.0 |  | Product Supplierinfo Revision
 [product_template_tags](product_template_tags/) | 15.0.1.0.1 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | This addon allow to add tags on products
 [product_variant_attribute_name_manager](product_variant_attribute_name_manager/) | 15.0.1.0.0 | [![oriolvforgeflow](https://github.com/oriolvforgeflow.png?size=30px)](https://github.com/oriolvforgeflow) | Manage how to display the attributes on the product variant name.
 [sale_product_template_tags](sale_product_template_tags/) | 15.0.1.0.1 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Show product tags menu in Sale app
