@@ -32,7 +32,7 @@ addon | version | maintainers | summary
 [product_cost_security](product_cost_security/) | 15.0.2.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Product cost security restriction view
 [product_dimension](product_dimension/) | 15.0.1.0.1 |  | Product Dimension
 [product_logistics_uom](product_logistics_uom/) | 15.0.1.0.1 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
-[product_manufacturer](product_manufacturer/) | 15.0.1.0.1 |  | Adds manufacturers and attributes on the product view.
+[product_manufacturer](product_manufacturer/) | 15.0.1.0.2 |  | Adds manufacturers and attributes on the product view.
 [product_multi_image](product_multi_image/) | 15.0.1.0.0 |  | Multiple Images in Products
 [product_net_weight](product_net_weight/) | 15.0.1.0.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
 [product_packaging_type](product_packaging_type/) | 15.0.1.0.0 |  | Product Packaging Type
@@ -40,7 +40,7 @@ addon | version | maintainers | summary
 [product_pricelist_direct_print](product_pricelist_direct_print/) | 15.0.1.0.0 |  | Print price list from menu option, product templates, products variants or price lists
 [product_pricelist_revision](product_pricelist_revision/) | 15.0.1.0.0 |  | Product Pricelist Revision
 [product_restricted_type](product_restricted_type/) | 15.0.1.0.0 |  | Product Restricted Type
-[product_secondary_unit](product_secondary_unit/) | 15.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
+[product_secondary_unit](product_secondary_unit/) | 15.0.1.0.1 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 15.0.1.0.0 |  | Product Sequence
 [product_state](product_state/) | 15.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 15.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
