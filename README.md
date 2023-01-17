@@ -28,7 +28,7 @@ addon | version | maintainers | summary
 [product_category_code_unique](product_category_code_unique/) | 15.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Allows to set product category code field as unique
 [product_category_product_link](product_category_product_link/) | 15.0.1.0.0 |  | Allows to get products from a category
 [product_code_mandatory](product_code_mandatory/) | 15.0.1.0.1 |  | Set Product Internal Reference as a required field
-[product_code_unique](product_code_unique/) | 15.0.1.0.0 |  | Set Product Internal Reference as Unique
+[product_code_unique](product_code_unique/) | 15.0.1.0.1 |  | Set Product Internal Reference as Unique
 [product_cost_security](product_cost_security/) | 15.0.2.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Product cost security restriction view
 [product_dimension](product_dimension/) | 15.0.1.0.1 |  | Product Dimension
 [product_drained_weight](product_drained_weight/) | 15.0.1.0.0 |  | Add 'Drained Weight' on product models
@@ -54,7 +54,9 @@ addon | version | maintainers | summary
 [product_supplierinfo_revision](product_supplierinfo_revision/) | 15.0.1.0.0 |  | Product Supplierinfo Revision
 [product_template_tags](product_template_tags/) | 15.0.1.0.1 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | This addon allow to add tags on products
 [product_variant_attribute_name_manager](product_variant_attribute_name_manager/) | 15.0.1.0.0 | [![oriolvforgeflow](https://github.com/oriolvforgeflow.png?size=30px)](https://github.com/oriolvforgeflow) | Manage how to display the attributes on the product variant name.
+[purchase_product_template_tags](purchase_product_template_tags/) | 15.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Show product tags menu in Purchase app
 [sale_product_template_tags](sale_product_template_tags/) | 15.0.1.0.1 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Show product tags menu in Sale app
+[stock_product_template_tags](stock_product_template_tags/) | 15.0.1.0.0 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Show product tags menu in Inventory app
 
 [//]: # (end addons)
 
