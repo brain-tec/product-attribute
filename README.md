@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [product_assortment](product_assortment/) | 16.0.1.0.2 |  | Adds the ability to manage products assortment
+[product_category_active](product_category_active/) | 16.0.1.0.1 |  | Add option to archive product categories
 [product_category_code](product_category_code/) | 16.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to define a code on product categories
 [product_code_unique](product_code_unique/) | 16.0.1.0.0 |  | Set Product Internal Reference as Unique
 [product_dimension](product_dimension/) | 16.0.1.1.0 |  | Product Dimension
@@ -29,7 +30,7 @@ addon | version | maintainers | summary
 [product_manufacturer](product_manufacturer/) | 16.0.1.0.0 |  | Adds manufacturers and attributes on the product view.
 [product_multi_category](product_multi_category/) | 16.0.1.0.0 |  | Product - Many Categories
 [product_packaging_dimension](product_packaging_dimension/) | 16.0.1.0.1 |  | Manage packaging dimensions and weight
-[product_sequence](product_sequence/) | 16.0.1.0.2 |  | Product Sequence
+[product_sequence](product_sequence/) | 16.0.2.0.0 |  | Product Sequence
 [product_state](product_state/) | 16.0.1.0.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_uom_measure_type](product_uom_measure_type/) | 16.0.1.0.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Product - UoM Measure Type
 [stock_production_lot_expired_date](stock_production_lot_expired_date/) | 16.0.1.0.1 |  | Stock production lot expired date
