@@ -36,7 +36,7 @@ addon | version | maintainers | summary
 [product_dimension](product_dimension/) | 15.0.1.0.1 |  | Product Dimension
 [product_drained_weight](product_drained_weight/) | 15.0.1.0.0 |  | Add 'Drained Weight' on product models
 [product_logistics_uom](product_logistics_uom/) | 15.0.1.0.1 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
-[product_lot_sequence](product_lot_sequence/) | 15.0.1.1.0 |  | Adds ability to define a lot sequence from the product
+[product_lot_sequence](product_lot_sequence/) | 15.0.1.1.1 |  | Adds ability to define a lot sequence from the product
 [product_manufacturer](product_manufacturer/) | 15.0.1.0.2 |  | Adds manufacturers and attributes on the product view.
 [product_multi_image](product_multi_image/) | 15.0.1.0.0 |  | Multiple Images in Products
 [product_net_weight](product_net_weight/) | 15.0.2.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
@@ -53,7 +53,7 @@ addon | version | maintainers | summary
 [product_secondary_unit](product_secondary_unit/) | 15.0.1.0.1 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 15.0.2.1.0 |  | Product Sequence
 [product_state](product_state/) | 15.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
-[product_sticker](product_sticker/) | 15.0.1.0.0 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) | Product Sticker
+[product_sticker](product_sticker/) | 15.0.1.0.1 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) | Product Sticker
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 15.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
 [product_supplierinfo_for_customer](product_supplierinfo_for_customer/) | 15.0.1.0.1 |  | Allows to define prices for customers in the products
 [product_supplierinfo_revision](product_supplierinfo_revision/) | 15.0.1.0.0 |  | Product Supplierinfo Revision
