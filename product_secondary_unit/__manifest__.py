@@ -3,7 +3,7 @@
 {
     "name": "Product Secondary Unit",
     "summary": "Set a secondary unit per product",
-    "version": "15.0.2.0.0",
+    "version": "16.0.1.0.0",
     "development_status": "Production/Stable",
     "category": "Product",
     "website": "https://github.com/OCA/product-attribute",
@@ -12,6 +12,7 @@
     "application": False,
     "installable": True,
     "depends": ["product"],
+    "external_dependencies": {"python": ["odoo_test_helper"]},
     "data": ["security/ir.model.access.csv", "views/product_views.xml"],
     "maintainers": ["sergio-teruel"],
 }

@@ -42,7 +42,7 @@ class ProductSecondaryUnitMixin(models.AbstractModel):
         store=True,
         readonly=False,
         compute="_compute_secondary_uom_qty",
-        default="1",
+        precompute=True,
     )
     secondary_uom_id = fields.Many2one(
         comodel_name="product.secondary.unit",
