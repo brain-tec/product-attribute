@@ -58,7 +58,13 @@ class ProductSecondaryUnitMixin(models.AbstractModel):
         return self.secondary_uom_id.factor * self._get_uom_line().factor
 
     def _get_quantity_from_line(self):
-        return self[self._secondary_unit_fields["qty_field"]]
+        # adding this FIX because the field product_qty is being recomputed,
+        # and it is computing it using the uom that has in the cache.
+        # product_qty should not be recomputed, it should be stored in the cache
+        product_qty = False
+        if 'from_onchange' in self.env.context:
+            product_qty = self.env.cache.get(self, self._fields.get(self._secondary_unit_fields["qty_field"]))
+        return product_qty or self[self._secondary_unit_fields["qty_field"]]
 
     @api.model
     def _get_secondary_uom_qty_depends(self):
@@ -125,7 +131,7 @@ class ProductSecondaryUnitMixin(models.AbstractModel):
         elif self.secondary_uom_id.dependency_type == "independent":
             return
         factor = self._get_factor_line()
-        line_qty = self._get_quantity_from_line()
+        line_qty = self.with_context(from_onchange=True)._get_quantity_from_line()
         qty = float_round(
             line_qty / (factor or 1.0),
             precision_rounding=self.secondary_uom_id.uom_id.rounding,

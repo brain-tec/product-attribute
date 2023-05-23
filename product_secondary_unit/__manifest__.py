@@ -12,7 +12,6 @@
     "application": False,
     "installable": True,
     "depends": ["product"],
-    "external_dependencies": {"python": ["odoo_test_helper"]},
     "data": ["security/ir.model.access.csv", "views/product_views.xml"],
     "maintainers": ["sergio-teruel"],
 }
