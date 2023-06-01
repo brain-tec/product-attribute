@@ -1,3 +1,6 @@
+Using this project branch because this PR has not been merged yet:
+
+https://github.com/OCA/product-attribute/pull/1325
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/product-attribute&target_branch=16.0)
 [![Pre-commit Status](https://github.com/OCA/product-attribute/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/product-attribute/actions/workflows/pre-commit.yml?query=branch%3A16.0)
