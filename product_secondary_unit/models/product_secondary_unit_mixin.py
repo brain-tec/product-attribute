@@ -131,3 +131,12 @@ class ProductSecondaryUnitMixin(models.AbstractModel):
             precision_rounding=self.secondary_uom_id.uom_id.rounding,
         )
         self.secondary_uom_qty = qty
+
+    @api.model
+    def default_get(self, fields_list):
+        defaults = super().default_get(fields_list)
+        if self.secondary_uom_id and not self.env.context.get(
+            "skip_default_secondary_uom_qty", False
+        ):
+            defaults["secondary_uom_qty"] = 1.0
+        return defaults
