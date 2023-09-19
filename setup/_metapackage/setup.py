@@ -8,6 +8,8 @@ setuptools.setup(
     description="Meta package for oca-product-attribute Odoo addons",
     version=version,
     install_requires=[
+        'odoo-addon-product_abc_classification>=16.0dev,<16.1dev',
+        'odoo-addon-product_abc_classification_sale_stock>=16.0dev,<16.1dev',
         'odoo-addon-product_assortment>=16.0dev,<16.1dev',
         'odoo-addon-product_attribute_archive>=16.0dev,<16.1dev',
         'odoo-addon-product_attribute_company_favorite>=16.0dev,<16.1dev',
@@ -23,6 +25,7 @@ setuptools.setup(
         'odoo-addon-product_multi_category>=16.0dev,<16.1dev',
         'odoo-addon-product_net_weight>=16.0dev,<16.1dev',
         'odoo-addon-product_packaging_dimension>=16.0dev,<16.1dev',
+        'odoo-addon-product_packaging_level>=16.0dev,<16.1dev',
         'odoo-addon-product_pricelist_direct_print>=16.0dev,<16.1dev',
         'odoo-addon-product_pricelist_direct_print_company_group>=16.0dev,<16.1dev',
         'odoo-addon-product_pricelist_direct_print_xlsx>=16.0dev,<16.1dev',
