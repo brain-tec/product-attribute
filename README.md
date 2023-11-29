@@ -46,7 +46,7 @@ addon | version | maintainers | summary
 [product_order_noname](product_order_noname/) | 15.0.1.0.0 | [![WR-96](https://github.com/WR-96.png?size=30px)](https://github.com/WR-96) [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Speedup product retrieve
 [product_packaging_type](product_packaging_type/) | 15.0.1.0.0 |  | Product Packaging Type
 [product_pricelist_by_contact](product_pricelist_by_contact/) | 15.0.1.0.0 |  | Product Pricelist Per Contact
-[product_pricelist_direct_print](product_pricelist_direct_print/) | 15.0.1.2.1 |  | Print price list from menu option, product templates, products variants or price lists
+[product_pricelist_direct_print](product_pricelist_direct_print/) | 15.0.1.2.2 |  | Print price list from menu option, product templates, products variants or price lists
 [product_pricelist_direct_print_company_group](product_pricelist_direct_print_company_group/) | 15.0.1.0.0 |  | Print Pricelist items using the company group model
 [product_pricelist_direct_print_website_sale](product_pricelist_direct_print_website_sale/) | 15.0.1.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Extend Product Pricelist Direct Print for filter by public categories
 [product_pricelist_revision](product_pricelist_revision/) | 15.0.1.0.1 |  | Product Pricelist Revision
@@ -54,7 +54,7 @@ addon | version | maintainers | summary
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 15.0.1.0.2 |  | Allows to create priceslists based on supplier info
 [product_profile](product_profile/) | 15.0.1.0.0 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Allow to configure a product in 1 click
 [product_restricted_type](product_restricted_type/) | 15.0.1.0.0 |  | Product Restricted Type
-[product_secondary_unit](product_secondary_unit/) | 15.0.2.0.4 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
+[product_secondary_unit](product_secondary_unit/) | 15.0.2.0.5 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 15.0.2.1.1 |  | Product Sequence
 [product_state](product_state/) | 15.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_status](product_status/) | 15.0.1.0.0 |  | Product Status Computed From Fields
