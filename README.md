@@ -42,7 +42,7 @@ addon | version | maintainers | summary
 [product_manufacturer](product_manufacturer/) | 16.0.1.0.1 |  | Adds manufacturers and attributes on the product view.
 [product_multi_category](product_multi_category/) | 16.0.1.0.0 |  | Product - Many Categories
 [product_net_weight](product_net_weight/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
-[product_packaging_container_deposit](product_packaging_container_deposit/) | 16.0.1.0.0 |  | Add container deposit fees in a order
+[product_packaging_container_deposit](product_packaging_container_deposit/) | 16.0.1.0.1 |  | Add container deposit fees in a order
 [product_packaging_dimension](product_packaging_dimension/) | 16.0.1.1.1 |  | Manage packaging dimensions and weight
 [product_packaging_level](product_packaging_level/) | 16.0.1.1.0 |  | This module binds a product packaging to a packaging level
 [product_packaging_level_purchasable](product_packaging_level_purchasable/) | 16.0.1.1.0 |  | Control purchase of products via packaging settings.
@@ -62,7 +62,7 @@ addon | version | maintainers | summary
 [product_sale_description](product_sale_description/) | 16.0.1.0.1 |  | Long and short description for products
 [product_secondary_unit](product_secondary_unit/) | 16.0.1.0.2 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 16.0.2.0.1 |  | Product Sequence
-[product_set](product_set/) | 16.0.1.0.0 |  | Product set
+[product_set](product_set/) | 16.0.2.0.0 |  | Product set
 [product_state](product_state/) | 16.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_stock_state](product_stock_state/) | 16.0.1.0.0 | [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Compute the state of a product's stockthe stock level and sale_ok field
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 16.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
