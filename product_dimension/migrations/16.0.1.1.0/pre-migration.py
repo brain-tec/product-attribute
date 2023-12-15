@@ -11,9 +11,9 @@
 from openupgradelib import openupgrade
 
 field_renames = [
-    ('product.template', 'product_template', 'length', 'product_length'),
-    ('product.template', 'product_template', 'height', 'product_height'),
-    ('product.template', 'product_template', 'width', 'product_width'),
+    ("product.template", "product_template", "length", "product_length"),
+    ("product.template", "product_template", "height", "product_height"),
+    ("product.template", "product_template", "width", "product_width"),
 ]
 
 
