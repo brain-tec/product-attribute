@@ -34,6 +34,7 @@ addon | version | maintainers | summary
 [product_category_active](product_category_active/) | 14.0.1.0.0 |  | Add option to archive product categories
 [product_category_code](product_category_code/) | 14.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to define a code on product categories
 [product_category_code_unique](product_category_code_unique/) | 14.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to set product category code field as unique
+[product_category_description](product_category_description/) | 14.0.1.0.0 | [![MarcBForgeFlow](https://github.com/MarcBForgeFlow.png?size=30px)](https://github.com/MarcBForgeFlow) | Allows to add a detailed description for a product category.
 [product_category_product_link](product_category_product_link/) | 14.0.1.0.1 |  | Allows to get products from a category
 [product_category_type](product_category_type/) | 14.0.1.0.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add Type field on Product Categories to distinguish between parent and final categories
 [product_code_mandatory](product_code_mandatory/) | 14.0.1.0.1 |  | Set Product Internal Reference as a required field
@@ -69,6 +70,7 @@ addon | version | maintainers | summary
 [product_profile](product_profile/) | 14.0.1.0.1 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Allow to configure a product in 1 click
 [product_restricted_type](product_restricted_type/) | 14.0.1.0.1 |  | Product Restricted Type
 [product_sale_manufactured_for](product_sale_manufactured_for/) | 14.0.1.1.0 |  | Allows to indicate in products that they were made specifically for some customers.
+[product_search_by_display_name](product_search_by_display_name/) | 14.0.1.0.0 | [![cuongnmtm](https://github.com/cuongnmtm.png?size=30px)](https://github.com/cuongnmtm) | Product Search By Display Name
 [product_seasonality](product_seasonality/) | 14.0.1.3.0 |  | Define rules for products' seasonal availability
 [product_secondary_unit](product_secondary_unit/) | 14.0.1.0.4 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 14.0.2.0.1 |  | Product Sequence
