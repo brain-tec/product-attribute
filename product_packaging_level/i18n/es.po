@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 13.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-03-26 22:36+0000\n"
+"PO-Revision-Date: 2024-03-27 15:35+0000\n"
 "Last-Translator: Ivorra78 <informatica@totmaterial.es>\n"
 "Language-Team: none\n"
 "Language: es\n"
@@ -43,6 +43,11 @@ msgid "Created on"
 msgstr "Creado el"
 
 #. module: product_packaging_level
+#: model:ir.model.fields,field_description:product_packaging_level.field_product_packaging_level__default_lang_id
+msgid "Default Language"
+msgstr "Idioma por Defecto"
+
+#. module: product_packaging_level
 #: model:product.packaging.level,name:product_packaging_level.product_packaging_level_default
 msgid "Default Level"
 msgstr "Tipo predeterminado"
@@ -77,6 +82,15 @@ msgid ""
 msgstr ""
 "Está prohibido tener diferentes embalajes con el mismo tipo para un producto "
 "determinado ({})."
+
+#. module: product_packaging_level
+#: model_terms:ir.ui.view,arch_db:product_packaging_level.view_product_packaging_level_form
+msgid ""
+"Language option for packaging names used in case policy names is packaging "
+"by levels"
+msgstr ""
+"Opción de idioma para los nombres de embalaje utilizados en caso de que los "
+"nombres de política sea el embalaje por niveles"
 
 #. module: product_packaging_level
 #: model:ir.model.fields,field_description:product_packaging_level.field_product_packaging_level____last_update
@@ -130,6 +144,7 @@ msgstr "Tipo de paquete Nombre"
 
 #. module: product_packaging_level
 #: model_terms:ir.ui.view,arch_db:product_packaging_level.product_packaging_tree_view
+#: model_terms:ir.ui.view,arch_db:product_packaging_level.view_product_packaging_add_type_form
 msgid "Packaging"
 msgstr "Empaquetado"
 
@@ -153,6 +168,7 @@ msgstr ""
 
 #. module: product_packaging_level
 #: model:ir.model,name:product_packaging_level.model_product_packaging
+#: model:ir.model.fields,field_description:product_packaging_level.field_product_packaging__name
 msgid "Product Packaging"
 msgstr "Empaquetado de producto"
 
