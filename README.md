@@ -32,6 +32,7 @@ addon | version | maintainers | summary
 [product_category_active](product_category_active/) | 16.0.1.0.2 |  | Add option to archive product categories
 [product_category_code](product_category_code/) | 16.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to define a code on product categories
 [product_category_hr_department](product_category_hr_department/) | 16.0.1.0.0 | [![smaciaosi](https://github.com/smaciaosi.png?size=30px)](https://github.com/smaciaosi) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Link product categories to hr departments
+[product_category_level](product_category_level/) | 16.0.1.0.0 | [![PierrickBrun](https://github.com/PierrickBrun.png?size=30px)](https://github.com/PierrickBrun) | Add Level field on Product Categories to show the recursion level on the category
 [product_category_type](product_category_type/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add Type field on Product Categories to distinguish between parent and final categories
 [product_code_mixin](product_code_mixin/) | 16.0.1.0.0 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) | Make product code available for any inherited model
 [product_code_unique](product_code_unique/) | 16.0.1.0.1 |  | Set Product Internal Reference as Unique
@@ -71,7 +72,7 @@ addon | version | maintainers | summary
 [product_secondary_unit](product_secondary_unit/) | 16.0.1.0.3 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Set a secondary unit per product
 [product_sequence](product_sequence/) | 16.0.2.0.1 |  | Product Sequence
 [product_set](product_set/) | 16.0.3.0.0 |  | Product set
-[product_state](product_state/) | 16.0.1.1.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
+[product_state](product_state/) | 16.0.1.2.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_stock_state](product_stock_state/) | 16.0.1.0.0 | [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Compute the state of a product's stockthe stock level and sale_ok field
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 16.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
 [product_supplierinfo_code](product_supplierinfo_code/) | 16.0.1.0.0 |  | Allows to get main supplierinfo product_code on product level
