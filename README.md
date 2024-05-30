@@ -33,6 +33,7 @@ addon | version | maintainers | summary
 [product_category_code](product_category_code/) | 16.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to define a code on product categories
 [product_category_hr_department](product_category_hr_department/) | 16.0.1.0.0 | [![smaciaosi](https://github.com/smaciaosi.png?size=30px)](https://github.com/smaciaosi) [![max3903](https://github.com/max3903.png?size=30px)](https://github.com/max3903) | Link product categories to hr departments
 [product_category_level](product_category_level/) | 16.0.1.0.0 | [![PierrickBrun](https://github.com/PierrickBrun.png?size=30px)](https://github.com/PierrickBrun) | Add Level field on Product Categories to show the recursion level on the category
+[product_category_product_qty](product_category_product_qty/) | 16.0.1.0.0 |  | Product Category - Product Quantity
 [product_category_type](product_category_type/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add Type field on Product Categories to distinguish between parent and final categories
 [product_code_mixin](product_code_mixin/) | 16.0.1.0.0 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) | Make product code available for any inherited model
 [product_code_unique](product_code_unique/) | 16.0.1.0.1 |  | Set Product Internal Reference as Unique
@@ -65,7 +66,7 @@ addon | version | maintainers | summary
 [product_pricelist_simulation](product_pricelist_simulation/) | 16.0.1.0.3 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Simulate the product price for all pricelists
 [product_pricelist_simulation_margin](product_pricelist_simulation_margin/) | 16.0.1.0.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add margin of product price for all pricelists
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 16.0.1.0.1 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Allows to create priceslists based on supplier info
-[product_print_category](product_print_category/) | 16.0.1.0.4 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Define print categories for products and automate products print, when data has changed
+[product_print_category](product_print_category/) | 16.0.1.0.5 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Define print categories for products and automate products print, when data has changed
 [product_product_template_link](product_product_template_link/) | 16.0.1.0.0 |  | Adds a button in product to view the template
 [product_profile](product_profile/) | 16.0.1.0.0 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Allow to configure a product in 1 click
 [product_route_mto](product_route_mto/) | 16.0.1.0.0 |  | This module allows to compute if a product is an 'MTO' one from its configured routes
