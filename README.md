@@ -28,6 +28,7 @@ addon | version | maintainers | summary
 [product_assortment_description](product_assortment_description/) | 14.0.1.0.1 |  | Description field for assortment
 [product_attribute_archive](product_attribute_archive/) | 14.0.1.0.0 |  | Add an active field on product attributes
 [product_attribute_value_menu](product_attribute_value_menu/) | 14.0.2.0.2 |  | Product attributes values tree and form. Import attribute values.
+[product_attribute_variant_rules](product_attribute_variant_rules/) | 14.0.1.0.1 |  | Add better rules for product variants generation from attributes
 [product_barcode_required](product_barcode_required/) | 14.0.1.0.0 | [![simahawk](https://github.com/simahawk.png?size=30px)](https://github.com/simahawk) | Make product barcode required when enabled
 [product_bom_revision](product_bom_revision/) | 14.0.1.0.1 |  | Store the revision of a product and a BOM
 [product_categ_image](product_categ_image/) | 14.0.1.0.0 |  | Add image on product category
@@ -51,7 +52,7 @@ addon | version | maintainers | summary
 [product_manufacturer](product_manufacturer/) | 14.0.1.0.2 |  | Adds manufacturers and attributes on the product view.
 [product_medical](product_medical/) | 14.0.1.0.1 |  | Base structure to handle medical products
 [product_model_viewer](product_model_viewer/) | 14.0.1.0.1 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | 3D model viewer for products
-[product_multi_category](product_multi_category/) | 14.0.1.0.0 |  | Product - Many Categories
+[product_multi_category](product_multi_category/) | 14.0.1.0.1 |  | Product - Many Categories
 [product_multi_image](product_multi_image/) | 14.0.1.0.1 |  | Multiple Images in Products
 [product_net_weight](product_net_weight/) | 14.0.1.0.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
 [product_order_noname](product_order_noname/) | 14.0.2.0.0 | [![WR-96](https://github.com/WR-96.png?size=30px)](https://github.com/WR-96) [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Speedup product retrieve
