@@ -14,6 +14,9 @@ field_renames = [
     ("product.template", "product_template", "length", "product_length"),
     ("product.template", "product_template", "height", "product_height"),
     ("product.template", "product_template", "width", "product_width"),
+    ("product.product", "product_product", "length", "product_length"),
+    ("product.product", "product_product", "height", "product_height"),
+    ("product.product", "product_product", "width", "product_width"),
 ]
 
 
