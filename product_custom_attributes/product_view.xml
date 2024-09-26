@@ -12,9 +12,9 @@
         <record model="ir.ui.view" id="product_product_form_view_set_button">
             <field name="name">attributes.product.normal.form</field>
             <field name="model">product.product</field>
-            <field name="inherit_id" ref="product.product_normal_form_view" />
+            <field name="inherit_id" ref="product.product_template_only_form_view" />
             <field name="arch" type="xml">
-                <xpath expr="/form/sheet/notebook/page[@string='Information']/group/group/field[@name='variants']/.." position="after">
+                <xpath expr="//page[@name='variants']//field[@name='attribute_line_ids']" position="after">
                     <group name="attribute_fields">
                         <field name="attribute_set_id" />
                         <button name="open_attributes" string="Open Attributes" type="object" icon="gtk-ok" attrs="{'invisible':[('attribute_set_id', '=', False)]}"/>

@@ -21,8 +21,7 @@
 ###############################################################################
 
 from openerp.osv.orm import TransientModel
-from osv import fields
-
+from openerp.osv import fields
 
 class open_product_by_attribute_set(TransientModel):
     _name = 'open.product.by.attribute.set'
