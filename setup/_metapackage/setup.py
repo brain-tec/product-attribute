@@ -57,6 +57,7 @@ setuptools.setup(
         'odoo14-addon-product_pricelist_supplierinfo',
         'odoo14-addon-product_product_template_navigation',
         'odoo14-addon-product_profile',
+        'odoo14-addon-product_readonly_security',
         'odoo14-addon-product_restricted_type',
         'odoo14-addon-product_route_mto',
         'odoo14-addon-product_sale_manufactured_for',

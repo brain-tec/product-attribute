@@ -70,6 +70,7 @@ addon | version | maintainers | summary
 [product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 14.0.1.1.1 |  | Allows to create priceslists based on supplier info
 [product_product_template_navigation](product_product_template_navigation/) | 14.0.1.0.1 |  | Adds a button in product to view the template
 [product_profile](product_profile/) | 14.0.1.0.1 | [![bealdav](https://github.com/bealdav.png?size=30px)](https://github.com/bealdav) [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Allow to configure a product in 1 click
+[product_readonly_security](product_readonly_security/) | 14.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Product Readonly Security
 [product_restricted_type](product_restricted_type/) | 14.0.1.0.1 |  | Product Restricted Type
 [product_route_mto](product_route_mto/) | 14.0.1.0.0 |  | This module allows to compute if a product is an 'MTO' one from its configured routes
 [product_sale_manufactured_for](product_sale_manufactured_for/) | 14.0.1.1.0 |  | Allows to indicate in products that they were made specifically for some customers.
