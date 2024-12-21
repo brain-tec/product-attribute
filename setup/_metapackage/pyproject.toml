@@ -1,8 +1,9 @@
 [project]
 name = "odoo-addons-oca-product-attribute"
-version = "18.0.20241216.0"
+version = "18.0.20241220.0"
 dependencies = [
     "odoo-addon-product_dimension==18.0.*",
+    "odoo-addon-product_logistics_uom==18.0.*",
     "odoo-addon-product_main_supplierinfo==18.0.*",
     "odoo-addon-product_manufacturer==18.0.*",
     "odoo-addon-product_print_category==18.0.*",
