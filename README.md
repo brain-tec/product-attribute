@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[product_category_active](product_category_active/) | 18.0.1.0.0 |  | Add option to archive product categories
 [product_dimension](product_dimension/) | 18.0.1.0.0 |  | Product Dimension
 [product_logistics_uom](product_logistics_uom/) | 18.0.1.0.0 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
 [product_main_supplierinfo](product_main_supplierinfo/) | 18.0.1.0.0 | [![sebalix](https://github.com/sebalix.png?size=30px)](https://github.com/sebalix) | Display the main vendor of a product.
