@@ -34,6 +34,7 @@ addon | version | maintainers | summary
 [product_print_category](product_print_category/) | 18.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Define print categories for products and automate products print, when data has changed
 [product_sequence](product_sequence/) | 18.0.1.0.0 |  | Product Sequence
 [product_set](product_set/) | 18.0.1.0.0 |  | Product set
+[product_supplierinfo_archive](product_supplierinfo_archive/) | 18.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
 
 [//]: # (end addons)
 
