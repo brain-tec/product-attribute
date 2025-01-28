@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[product_attribute_archive](product_attribute_archive/) | 18.0.1.0.0 |  | Add an active field on product attributes
 [product_category_active](product_category_active/) | 18.0.1.0.0 |  | Add option to archive product categories
 [product_dimension](product_dimension/) | 18.0.1.0.0 |  | Product Dimension
 [product_logistics_uom](product_logistics_uom/) | 18.0.1.0.0 | [![hparfr](https://github.com/hparfr.png?size=30px)](https://github.com/hparfr) | Configure product weights and volume UoM
