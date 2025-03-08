@@ -39,6 +39,7 @@ addon | version | maintainers | summary
 [product_net_weight](product_net_weight/) | 18.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
 [product_packaging_dimension](product_packaging_dimension/) | 18.0.1.0.0 |  | Manage packaging dimensions and weight
 [product_packaging_level](product_packaging_level/) | 18.0.1.0.0 |  | This module binds a product packaging to a packaging level
+[product_packaging_level_salable](product_packaging_level_salable/) | 18.0.1.0.0 |  | Product Packaging level salable
 [product_pricelist_alternative](product_pricelist_alternative/) | 18.0.1.0.0 |  | Calculate product price based on alternative pricelists
 [product_pricelist_by_contact](product_pricelist_by_contact/) | 18.0.1.0.0 |  | Product Pricelist Per Contact
 [product_pricelist_fixed_currency_rate](product_pricelist_fixed_currency_rate/) | 18.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) [![kobros-tech](https://github.com/kobros-tech.png?size=30px)](https://github.com/kobros-tech) | Set a fixed currency rate between pricelists
@@ -51,6 +52,7 @@ addon | version | maintainers | summary
 [product_state](product_state/) | 18.0.1.0.0 | [![emagdalenaC2i](https://github.com/emagdalenaC2i.png?size=30px)](https://github.com/emagdalenaC2i) | Module introducing a state field on product template
 [product_state_sale](product_state_sale/) | 18.0.1.0.0 |  | This module add the use of Product State in Sale
 [product_state_stock_base](product_state_stock_base/) | 18.0.1.0.0 |  | This module add the use of Product State in Stock
+[product_status](product_status/) | 18.0.1.0.0 |  | Product Status Computed From Fields
 [product_stock_state](product_stock_state/) | 18.0.1.0.0 | [![sebastienbeau](https://github.com/sebastienbeau.png?size=30px)](https://github.com/sebastienbeau) [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) [![kevinkhao](https://github.com/kevinkhao.png?size=30px)](https://github.com/kevinkhao) | Compute the state of a product's stockthe stock level and sale_ok field
 [product_supplierinfo_archive](product_supplierinfo_archive/) | 18.0.1.0.0 | [![GuillemCForgeFlow](https://github.com/GuillemCForgeFlow.png?size=30px)](https://github.com/GuillemCForgeFlow) [![AlvaroTForgeFlow](https://github.com/AlvaroTForgeFlow.png?size=30px)](https://github.com/AlvaroTForgeFlow) [![OriolVForgeFlow](https://github.com/OriolVForgeFlow.png?size=30px)](https://github.com/OriolVForgeFlow) | Add the active field to the product supplier info
 [product_supplierinfo_revision](product_supplierinfo_revision/) | 18.0.1.0.0 |  | Product Supplierinfo Revision
