@@ -93,6 +93,7 @@ addon | version | maintainers | summary
 [product_supplierinfo_code](product_supplierinfo_code/) | 16.0.1.0.0 |  | Allows to get main supplierinfo product_code on product level
 [product_supplierinfo_for_customer](product_supplierinfo_for_customer/) | 16.0.1.0.4 |  | Allows to define prices for customers in the products
 [product_supplierinfo_import_by_barcode](product_supplierinfo_import_by_barcode/) | 16.0.1.0.0 |  | Import supplier pricelists by barcode
+[product_supplierinfo_import_by_barcode_margin](product_supplierinfo_import_by_barcode_margin/) | 16.0.1.0.0 |  | Import supplier pricelists by barcode and margins
 [product_supplierinfo_revision](product_supplierinfo_revision/) | 16.0.1.0.0 |  | Product Supplierinfo Revision
 [product_supplierinfo_stock_picking_type](product_supplierinfo_stock_picking_type/) | 16.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Product supplierinfo stock picking type
 [product_template_has_one_variant](product_template_has_one_variant/) | 16.0.1.0.1 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | Allows to define a field on product template level to determine if it has only one variant
