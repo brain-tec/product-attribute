@@ -66,10 +66,10 @@ addon | version | maintainers | summary
 [product_packaging_level_purchasable](product_packaging_level_purchasable/) | 16.0.1.1.0 |  | Control purchase of products via packaging settings.
 [product_packaging_level_salable](product_packaging_level_salable/) | 16.0.1.0.0 |  | Product Packaging level salable
 [product_pricelist_alternative](product_pricelist_alternative/) | 16.0.1.2.0 |  | Calculate product price based on alternative pricelists
-[product_pricelist_direct_print](product_pricelist_direct_print/) | 16.0.1.2.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Print price list from menu option, product templates, products variants or price lists
+[product_pricelist_direct_print](product_pricelist_direct_print/) | 16.0.1.3.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Print price list from menu option, product templates, products variants or price lists
 [product_pricelist_direct_print_company_group](product_pricelist_direct_print_company_group/) | 16.0.1.0.0 |  | Print Pricelist items using the company group model
 [product_pricelist_direct_print_website_sale](product_pricelist_direct_print_website_sale/) | 16.0.1.0.0 | [![CarlosRoca13](https://github.com/CarlosRoca13.png?size=30px)](https://github.com/CarlosRoca13) | Extend Product Pricelist Direct Print for filter by public categories
-[product_pricelist_direct_print_xlsx](product_pricelist_direct_print_xlsx/) | 16.0.1.0.0 |  | Print price list in XLSX format
+[product_pricelist_direct_print_xlsx](product_pricelist_direct_print_xlsx/) | 16.0.1.1.0 |  | Print price list in XLSX format
 [product_pricelist_fixed_currency_rate](product_pricelist_fixed_currency_rate/) | 16.0.1.0.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | Set a fixed currency rate between pricelists
 [product_pricelist_item_list_view](product_pricelist_item_list_view/) | 16.0.1.1.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | View and search the list of pricelist items
 [product_pricelist_revision](product_pricelist_revision/) | 16.0.1.0.1 |  | Product Pricelist Revision
