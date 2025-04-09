@@ -40,6 +40,7 @@ addon | version | maintainers | summary
 [product_medical](product_medical/) | 18.0.1.0.0 |  | Base structure to handle medical products
 [product_multi_category](product_multi_category/) | 18.0.1.0.0 |  | Product - Many Categories
 [product_net_weight](product_net_weight/) | 18.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Add 'Net Weight' on product models
+[product_origin](product_origin/) | 18.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Adds the origin of the product
 [product_packaging_calculator](product_packaging_calculator/) | 18.0.1.0.0 |  | Compute product quantity to pick by packaging
 [product_packaging_dimension](product_packaging_dimension/) | 18.0.1.0.0 |  | Manage packaging dimensions and weight
 [product_packaging_level](product_packaging_level/) | 18.0.1.0.0 |  | This module binds a product packaging to a packaging level
