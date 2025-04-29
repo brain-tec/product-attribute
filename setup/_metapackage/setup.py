@@ -98,6 +98,7 @@ setuptools.setup(
         'odoo-addon-stock_lot_is_archived>=16.0dev,<16.1dev',
         'odoo-addon-stock_product_template_tags>=16.0dev,<16.1dev',
         'odoo-addon-stock_production_lot_expired_date>=16.0dev,<16.1dev',
+        'odoo-addon-uom_alias>=16.0dev,<16.1dev',
         'odoo-addon-uom_category_active>=16.0dev,<16.1dev',
     ],
     classifiers=[
