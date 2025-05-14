@@ -43,7 +43,7 @@ addon | version | maintainers | summary
 [product_pricelist_item_list_view](product_pricelist_item_list_view/) | 17.0.1.1.0 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) | View and search the list of pricelist items
 [product_pricelist_revision](product_pricelist_revision/) | 17.0.1.0.0 |  | Product Pricelist Revision
 [product_pricelist_simulation](product_pricelist_simulation/) | 17.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Simulate the product price for all pricelists
-[product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 17.0.2.0.0 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Allows to create priceslists based on supplier info
+[product_pricelist_supplierinfo](product_pricelist_supplierinfo/) | 17.0.2.1.0 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Allows to create priceslists based on supplier info
 [product_print_category](product_print_category/) | 17.0.1.0.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Define print categories for products and automate products print, when data has changed
 [product_product_template_link](product_product_template_link/) | 17.0.1.0.0 |  | Adds a button in product to view the template
 [product_readonly_security](product_readonly_security/) | 17.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Product Readonly Security
