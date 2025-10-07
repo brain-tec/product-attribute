@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [product_assortment](product_assortment/) | 17.0.1.0.0 |  | Adds the ability to manage products assortment
+[product_attribute_auto_add](product_attribute_auto_add/) | 17.0.1.0.0 | <a href='https://github.com/mike-cetmix'><img src='https://github.com/mike-cetmix.png' width='32' height='32' style='border-radius:50%;' alt='mike-cetmix'/></a> | Add new attribute values to product templates automatically
 [product_attribute_company_favorite](product_attribute_company_favorite/) | 17.0.1.0.0 | <a href='https://github.com/victor-champonnois'><img src='https://github.com/victor-champonnois.png' width='32' height='32' style='border-radius:50%;' alt='victor-champonnois'/></a> | Possibility to set favorite product attributes per company
 [product_category_active](product_category_active/) | 17.0.1.0.0 |  | Add option to archive product categories
 [product_category_code](product_category_code/) | 17.0.1.0.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> | Allows to define a code on product categories
@@ -57,6 +58,7 @@ addon | version | maintainers | summary
 [product_product_template_link](product_product_template_link/) | 17.0.1.0.0 |  | Adds a button in product to view the template
 [product_readonly_security](product_readonly_security/) | 17.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Product Readonly Security
 [product_restricted_type](product_restricted_type/) | 17.0.1.0.0 |  | Product Restricted Type
+[product_route_mto](product_route_mto/) | 17.0.1.0.0 |  | This module allows to compute if a product is an 'MTO' one from its configured routes
 [product_secondary_unit](product_secondary_unit/) | 17.0.1.0.0 | <a href='https://github.com/sergio-teruel'><img src='https://github.com/sergio-teruel.png' width='32' height='32' style='border-radius:50%;' alt='sergio-teruel'/></a> | Set a secondary unit per product
 [product_sequence](product_sequence/) | 17.0.1.0.0 |  | Product Sequence
 [product_set](product_set/) | 17.0.1.0.1 |  | Product set
