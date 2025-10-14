@@ -35,7 +35,7 @@ addon | version | maintainers | summary
 [product_catalog](product_catalog/) | 16.0.1.0.0 |  | Backport of Odoos v17 product catalog
 [product_catalog_sale](product_catalog_sale/) | 16.0.1.0.0 |  | Backport of Odoos v17 product catalog for sale orders
 [product_catalog_stock](product_catalog_stock/) | 16.0.1.0.0 |  | Use the product catalog on stock pickings
-[product_category_active](product_category_active/) | 16.0.2.0.0 |  | Add option to archive product categories
+[product_category_active](product_category_active/) | 16.0.2.0.1 |  | Add option to archive product categories
 [product_category_code](product_category_code/) | 16.0.1.0.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> | Allows to define a code on product categories
 [product_category_code_unique](product_category_code_unique/) | 16.0.1.0.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> <a href='https://github.com/luisg123v'><img src='https://github.com/luisg123v.png' width='32' height='32' style='border-radius:50%;' alt='luisg123v'/></a> | Allows to set product category code field as unique
 [product_category_description](product_category_description/) | 16.0.1.0.0 | <a href='https://github.com/MarcBForgeFlow'><img src='https://github.com/MarcBForgeFlow.png' width='32' height='32' style='border-radius:50%;' alt='MarcBForgeFlow'/></a> | Allows to add a detailed description for a product category.
@@ -48,6 +48,7 @@ addon | version | maintainers | summary
 [product_code_regex_validation](product_code_regex_validation/) | 16.0.1.0.0 |  | Configure regEx validation for product codes.
 [product_code_unique](product_code_unique/) | 16.0.1.0.1 |  | Set Product Internal Reference as Unique
 [product_company_default](product_company_default/) | 16.0.1.0.0 |  | Product Company Default
+[product_compute_template_field_from_variant_helper](product_compute_template_field_from_variant_helper/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Add technical helper to compute easily template fields from product variant fields
 [product_cost_security](product_cost_security/) | 16.0.2.3.0 | <a href='https://github.com/sergio-teruel'><img src='https://github.com/sergio-teruel.png' width='32' height='32' style='border-radius:50%;' alt='sergio-teruel'/></a> <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/yajo'><img src='https://github.com/yajo.png' width='32' height='32' style='border-radius:50%;' alt='yajo'/></a> | Product cost security restriction view
 [product_country_restriction](product_country_restriction/) | 16.0.1.0.1 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> | Allows to define product restrictions country based
 [product_dimension](product_dimension/) | 16.0.1.2.0 |  | Product Dimension
