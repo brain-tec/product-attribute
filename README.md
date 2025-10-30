@@ -38,7 +38,7 @@ addon | version | maintainers | summary
 [product_code_unique](product_code_unique/) | 18.0.1.0.0 |  | Set Product Internal Reference as Unique
 [product_company_default](product_company_default/) | 18.0.1.0.0 |  | Product Company Default
 [product_cost_security](product_cost_security/) | 18.0.1.0.0 | <a href='https://github.com/sergio-teruel'><img src='https://github.com/sergio-teruel.png' width='32' height='32' style='border-radius:50%;' alt='sergio-teruel'/></a> <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/yajo'><img src='https://github.com/yajo.png' width='32' height='32' style='border-radius:50%;' alt='yajo'/></a> | Product cost security restriction view
-[product_customerinfo](product_customerinfo/) | 18.0.1.1.0 | <a href='https://github.com/luisg123v'><img src='https://github.com/luisg123v.png' width='32' height='32' style='border-radius:50%;' alt='luisg123v'/></a> | Allows to define prices for customers in the products
+[product_customerinfo](product_customerinfo/) | 18.0.1.2.0 | <a href='https://github.com/luisg123v'><img src='https://github.com/luisg123v.png' width='32' height='32' style='border-radius:50%;' alt='luisg123v'/></a> | Allows to define prices for customers in the products
 [product_dimension](product_dimension/) | 18.0.1.0.0 |  | Product Dimension
 [product_drained_weight](product_drained_weight/) | 18.0.1.0.0 |  | Add 'Drained Weight' on product models
 [product_get_price_helper](product_get_price_helper/) | 18.0.1.1.0 |  | This module provides a helper function to compute product prices.
@@ -49,6 +49,7 @@ addon | version | maintainers | summary
 [product_manufacturer](product_manufacturer/) | 18.0.1.0.0 |  | Adds manufacturers and attributes on the product view.
 [product_medical](product_medical/) | 18.0.1.0.0 |  | Base structure to handle medical products
 [product_multi_category](product_multi_category/) | 18.0.1.0.0 |  | Product - Many Categories
+[product_multi_price](product_multi_price/) | 18.0.1.0.0 |  | Product Multi Price
 [product_net_weight](product_net_weight/) | 18.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Add 'Net Weight' on product models
 [product_origin](product_origin/) | 18.0.1.0.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Adds the origin of the product
 [product_packaging_calculator](product_packaging_calculator/) | 18.0.1.0.0 |  | Compute product quantity to pick by packaging
@@ -72,7 +73,7 @@ addon | version | maintainers | summary
 [product_route_mto](product_route_mto/) | 18.0.1.0.0 | <a href='https://github.com/jbaudoux'><img src='https://github.com/jbaudoux.png' width='32' height='32' style='border-radius:50%;' alt='jbaudoux'/></a> | This module allows to compute if a product is an 'MTO' one from its configured routes
 [product_sale_manufactured_for](product_sale_manufactured_for/) | 18.0.1.0.0 |  | Allows to indicate in products that they were made specifically for some customers.
 [product_secondary_unit](product_secondary_unit/) | 18.0.1.0.1 | <a href='https://github.com/sergio-teruel'><img src='https://github.com/sergio-teruel.png' width='32' height='32' style='border-radius:50%;' alt='sergio-teruel'/></a> | Set a secondary unit per product
-[product_sequence](product_sequence/) | 18.0.1.0.0 |  | Product Sequence
+[product_sequence](product_sequence/) | 18.0.1.0.1 |  | Product Sequence
 [product_set](product_set/) | 18.0.1.2.1 |  | Product set
 [product_state](product_state/) | 18.0.1.0.0 | <a href='https://github.com/emagdalenaC2i'><img src='https://github.com/emagdalenaC2i.png' width='32' height='32' style='border-radius:50%;' alt='emagdalenaC2i'/></a> | Module introducing a state field on product template
 [product_state_sale](product_state_sale/) | 18.0.1.0.0 |  | This module add the use of Product State in Sale
