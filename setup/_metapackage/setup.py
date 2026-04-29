@@ -44,6 +44,7 @@ setuptools.setup(
         'odoo-addon-product_expiry_configurable>=16.0dev,<16.1dev',
         'odoo-addon-product_get_price_helper>=16.0dev,<16.1dev',
         'odoo-addon-product_internal_reference_generator>=16.0dev,<16.1dev',
+        'odoo-addon-product_is_bulk>=16.0dev,<16.1dev',
         'odoo-addon-product_list_price_from_pricelist>=16.0dev,<16.1dev',
         'odoo-addon-product_logistics_uom>=16.0dev,<16.1dev',
         'odoo-addon-product_logistics_uom_net_weight>=16.0dev,<16.1dev',
