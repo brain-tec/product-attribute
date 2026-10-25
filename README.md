@@ -25,7 +25,7 @@ addon | version | maintainers | summary
 [product_attribute_archive](product_attribute_archive/) | 19.0.1.0.0 |  | Add an active field on product attributes
 [product_attribute_value_avoid_auto_fill](product_attribute_value_avoid_auto_fill/) | 19.0.1.0.0 |  | Add option allow filling automatically the values
 [product_category_active](product_category_active/) | 19.0.1.0.0 |  | Add option to archive product categories
-[product_category_code](product_category_code/) | 19.0.1.0.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> | Allows to define a code on product categories
+[product_category_code](product_category_code/) | 19.0.1.1.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> | Allows to define a code on product categories
 [product_category_product_link](product_category_product_link/) | 19.0.1.0.0 |  | Allows to get products from a category
 [product_category_type](product_category_type/) | 19.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Add Type field on Product Categories to distinguish between parent and final categories
 [product_category_uom](product_category_uom/) | 19.0.1.0.0 |  | Define default product UoM at product category level
@@ -61,11 +61,13 @@ addon | version | maintainers | summary
 [product_supplierinfo_comment](product_supplierinfo_comment/) | 19.0.1.0.0 |  | Add the comment field to the product supplier info
 [product_supplierinfo_indirect_cost](product_supplierinfo_indirect_cost/) | 19.0.1.0.0 |  | Add indirect cost percent and amount to supplier info
 [product_supplierinfo_revision](product_supplierinfo_revision/) | 19.0.1.0.0 |  | Product Supplierinfo Revision
+[product_uom_updatable](product_uom_updatable/) | 19.0.1.0.0 |  | allows products uom to be modified after be used in a stock picking if the product uom is of the same category
 [product_usability](product_usability/) | 19.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Adds missing menu entries for Product module and adds extra groups to fine-tune access rights
 [product_user](product_user/) | 19.0.1.0.0 |  | Product Manager
 [purchase_product_template_tags](purchase_product_template_tags/) | 19.0.1.0.0 | <a href='https://github.com/ivantodorovich'><img src='https://github.com/ivantodorovich.png' width='32' height='32' style='border-radius:50%;' alt='ivantodorovich'/></a> | Show product tags menu in Purchase app
 [sale_product_matrix_secondary_unit](sale_product_matrix_secondary_unit/) | 19.0.1.0.0 | <a href='https://github.com/carlos-lopez-tecnativa'><img src='https://github.com/carlos-lopez-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='carlos-lopez-tecnativa'/></a> | Secondary unit in product matrix
 [uom_alias](uom_alias/) | 19.0.1.0.0 | <a href='https://github.com/renatonlima'><img src='https://github.com/renatonlima.png' width='32' height='32' style='border-radius:50%;' alt='renatonlima'/></a> | Adds alias for UOM
+[uom_qty_unique](uom_qty_unique/) | 19.0.1.0.0 | <a href='https://github.com/rousseldenis'><img src='https://github.com/rousseldenis.png' width='32' height='32' style='border-radius:50%;' alt='rousseldenis'/></a> | This constrains unit of measure per quantity and per category
 
 [//]: # (end addons)
 
