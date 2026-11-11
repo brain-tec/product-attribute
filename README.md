@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# product-attribute
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/product-attribute&target_branch=18.0)
 [![Pre-commit Status](https://github.com/OCA/product-attribute/actions/workflows/pre-commit.yml/badge.svg?branch=18.0)](https://github.com/OCA/product-attribute/actions/workflows/pre-commit.yml?query=branch%3A18.0)
 [![Build Status](https://github.com/OCA/product-attribute/actions/workflows/test.yml/badge.svg?branch=18.0)](https://github.com/OCA/product-attribute/actions/workflows/test.yml?query=branch%3A18.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/product-attribute-18-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/product-attribute-18-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# product-attribute
 
 product-attribute
 
@@ -53,6 +54,7 @@ addon | version | maintainers | summary
 [product_eprel](product_eprel/) | 18.0.1.0.1 |  | Manage EPREL model identifiers and energy label data for products.
 [product_form_pricelist](product_form_pricelist/) | 18.0.1.0.0 |  | Show/edit pricelist in product form
 [product_get_price_helper](product_get_price_helper/) | 18.0.1.1.0 |  | This module provides a helper function to compute product prices.
+[product_import_autocomplete_attribute](product_import_autocomplete_attribute/) | 18.0.1.0.0 | <a href='https://github.com/bealdav'><img src='https://github.com/bealdav.png' width='32' height='32' style='border-radius:50%;' alt='bealdav'/></a> | Sync product variant attributes to template
 [product_ingredient](product_ingredient/) | 18.0.1.0.1 | <a href='https://github.com/sergio-teruel'><img src='https://github.com/sergio-teruel.png' width='32' height='32' style='border-radius:50%;' alt='sergio-teruel'/></a> | Product ingredients
 [product_list_price_from_pricelist](product_list_price_from_pricelist/) | 18.0.1.0.0 | <a href='https://github.com/carlos-lopez-tecnativa'><img src='https://github.com/carlos-lopez-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='carlos-lopez-tecnativa'/></a> | Compute product sales price from a pricelist
 [product_logistics_uom](product_logistics_uom/) | 18.0.1.1.0 | <a href='https://github.com/hparfr'><img src='https://github.com/hparfr.png' width='32' height='32' style='border-radius:50%;' alt='hparfr'/></a> | Configure product weights and volume UoM
